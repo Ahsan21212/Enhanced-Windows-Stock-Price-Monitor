@@ -1,0 +1,9 @@
+2025-04-08 14:29:46,071 - INFO - ALERT: AAPL $182.61 > upper $175.0
+2025-04-08 14:29:47,913 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2297866e61dsm94964295ad.190 - gsmtp')
+2025-04-08 14:29:49,180 - INFO - ALERT: MSFT $360.67 > upper $300.0
+2025-04-08 14:29:51,993 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-229785ada37sm94467755ad.32 - gsmtp')
+2025-04-08 14:35:21,195 - ERROR - Error fetching price for $: Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_INTRADAY.
+2025-04-08 14:36:19,987 - ERROR - Error fetching price for $: Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_INTRADAY.
+2025-04-08 14:37:20,471 - ERROR - Error fetching price for $: Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_INTRADAY.
+2025-04-08 14:39:13,759 - INFO - ALERT: AAPL $182.61 > $165.0
+2025-04-11 16:00:18,750 - INFO - ALERT: AAPL $189.20 > $70.0
